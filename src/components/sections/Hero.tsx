@@ -43,7 +43,7 @@ export default function Hero() {
                     </Link>
 
                     <Link
-                        href="/resume.pdf"
+                        href="https://raisanstore.gumroad.com/l/modern-portfolio"
                         className="px-6 py-3 border border-white/20 text-white font-medium rounded-full flex items-center gap-2 hover:bg-white/10 transition-all"
                     >
                         <Download className="w-4 h-4" />
